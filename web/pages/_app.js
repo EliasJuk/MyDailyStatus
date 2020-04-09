@@ -1,7 +1,12 @@
 import React from 'react'
+import '../styles/styles.css'
 
-const App = () => {
-    return <h1>APP</h1>
+const App = ({ Component, pageProps }) => {
+    return (
+        <div>
+            <Component {...pageProps} />
+        </div>
+    )
 }
 
 export default App
