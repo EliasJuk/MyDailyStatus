@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="MyDailyStatus" title="#MyDailyStatus" src="readme/Logo.png" width="80%"/>
+    <img alt="MyDailyStatus" title="#MyDailyStatus" src="readme/Logo.png"/>
 </h1>
 
 <p>&nbsp;</p>
@@ -27,17 +27,15 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen"> 
 <p>
 
----
-
 <p align="center">
   <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
-<p>&nbsp;</p>
-
 ---
+
+<p>&nbsp;</p>
 
 ## :rocket: Technologies
 
