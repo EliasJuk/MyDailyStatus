@@ -44,6 +44,7 @@ This project was developed with the following technologies:
 - [React](https://reactjs.org)
 - [Next.js](https://nextjs.org/)
 - [Node.js](https://nodejs.org/en/)
+- [tailwindcss](https://tailwindcss.com/)
 
 ---
 
