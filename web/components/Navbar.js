@@ -1,18 +1,20 @@
 import React from 'react'
 import Link from 'next/link'
 
+const NavLink = ({ href, children }) => {
+    return (
+        <Link href={href}>
+            <a className='p-2 hover:underline hover:text-red-800'>{children}</a>
+        </Link>
+    )
+}
+
 const Navbar = () => {
     return(
-        <div className="bg-gray-500 py-4">
-            <Link href="/sobre">
-                <a>Sobre</a>
-            </Link>
-            <Link href="/cadastro">
-                <a>Cadastro</a>
-            </Link>
-            <Link href="/entrar">
-                <a>Entrar</a>
-            </Link>
+        <div className="bg-gray-500 py-4 text-center">
+            <NavLink href='/sobre'>Sobre</NavLink>
+            <NavLink href='/cadastro'>Cadastro</NavLink>
+            <NavLink href='/entrar'>Entrar</NavLink>
         </div>
     )
 }

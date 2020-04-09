@@ -1,6 +1,7 @@
 <h4 align="center">
     <img alt="MyDailyStatus" title="#MyDailyStatus" src="readme/Logo.png"/>
 </h4>
+<p>&nbsp;</p>
 
 <h4 align="center"> 
   🚀 Aplicação desenvolvida durante a semana Fullstack-Lab do DevPleno 🚀
