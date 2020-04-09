@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="MyDailyStatus" title="#MyDailyStatus" src="readme/Logo.png"/>
+    <img alt="MyDailyStatus" title="#MyDailyStatus" src="readme/Logo.png" width="80%"/>
 </h1>
 
 <p>&nbsp;</p>
