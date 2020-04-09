@@ -1,6 +1,6 @@
-<h1 align="center">
+<h4 align="center">
     <img alt="MyDailyStatus" title="#MyDailyStatus" src="readme/Logo.png"/>
-</h1>
+</h4>
 
 <p>&nbsp;</p>
 
