@@ -42,10 +42,11 @@ This project was developed with the following technologies:
 
 
 - [React](https://reactjs.org)
-- [Auth0](https://auth0.com/)
 - [Next.js](https://nextjs.org/)
 - [Node.js](https://nodejs.org/en/)
 - [Tailwindcss](https://tailwindcss.com/)
+- [Auth0](https://auth0.com/)
+- [Dotenv](https://www.npmjs.com/package/dotenv)
 
 ---
 
