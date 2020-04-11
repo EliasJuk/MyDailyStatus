@@ -56,6 +56,18 @@ Para acessar o layout utilize a ferramenta [Figma](https://www.figma.com/file/1r
 
 ---
 
+
+## ❔ How To Use
+
+#### DEV
+- DEV: `npm run dev`;
+
+#### ENV
+- BUILD: `npm run build` and `npm run start`
+
+---
+
+
 ## ❔ How to contribute
 
 - Make a fork;
@@ -66,6 +78,7 @@ Para acessar o layout utilize a ferramenta [Figma](https://www.figma.com/file/1r
 After merging your receipt request to done, you can delete a branch from yours.
 
 ---
+
 
 ## :memo: License
 
