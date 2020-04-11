@@ -3,7 +3,7 @@ import Navbar from './Navbar'
 
 const Header = () => {
     return(
-        <div className='bg-gray-200'>
+        <div className='bg-gray-200 font-bold'>
             <h1>
                 <img 
                     src="/logo.png" 
