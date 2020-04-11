@@ -47,6 +47,9 @@ This project was developed with the following technologies:
 - [Tailwindcss](https://tailwindcss.com/)
 - [Auth0](https://auth0.com/)
 - [Dotenv](https://www.npmjs.com/package/dotenv)
+- [Firebase](https://firebase.google.com/)
+
+
 
 ---
 
@@ -59,11 +62,27 @@ Para acessar o layout utilize a ferramenta [Figma](https://www.figma.com/file/1r
 
 ## ❔ How To Use
 
-#### DEV
-- DEV: `npm run dev`;
+#### 🔒 Auth0
+<p>Antes de tudo você precisa se cadastrar no Auth0 para criar uma chave de autentificação para a api de login, após criar a conta, com a chave em mãos você deve criar um arquivo .env você pode usar como exemplo o arquivo .env-exemple, nele você devera substituir as informações CLIENT_ID, CLIENT_SECRETE e DOMAIN pelas informações obtidas no painel de APIs</p> 
 
-#### ENV
-- BUILD: `npm run build` and `npm run start`
+#### 🔥 Firebase 
+<p>Renomear o arquivo de credenciais para (firebase-secret.json)</p>
+
+#### RUN DEV
+```bash
+# run dev
+$ npm run dev
+```
+
+
+#### RUN ENV
+```bash
+# build
+$ npm run build
+
+# start
+$ npm run start
+```
 
 ---
 
