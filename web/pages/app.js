@@ -8,7 +8,7 @@ const App = props => {
             router.push('/')
         }
     })
-    if(props.isAuth){
+    if(!props.isAuth){
         return null
     }
     return (
@@ -22,14 +22,13 @@ const App = props => {
 export default App
 
 export async function getServerSideProps({ req, res }) {
-    const session = await auth0.getSession(req)
-    
+    const session = await auth0.getSession(req)   
     if(session){
         return {
             props: {
                 //isAuth: !!session.user,
                 isAuth: true,
-                user: session.user.name
+                user: session.user
             }
         }
     }
