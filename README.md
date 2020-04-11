@@ -48,7 +48,8 @@ This project was developed with the following technologies:
 - [Auth0](https://auth0.com/)
 - [Dotenv](https://www.npmjs.com/package/dotenv)
 - [Firebase](https://firebase.google.com/)
-
+- [Geofirestore](https://github.com/geofirestore/geofirestore-js/)
+- [Axios](https://github.com/axios/axios)
 
 
 ---
@@ -65,17 +66,25 @@ Para acessar o layout utilize a ferramenta [Figma](https://www.figma.com/file/1r
 #### 🔒 Auth0
 <p>Antes de tudo você precisa se cadastrar no Auth0 para criar uma chave de autentificação para a api de login, após criar a conta, com a chave em mãos você deve criar um arquivo .env você pode usar como exemplo o arquivo .env-exemple, nele você devera substituir as informações CLIENT_ID, CLIENT_SECRETE e DOMAIN pelas informações obtidas no painel de APIs</p> 
 
-#### 🔥 Firebase 
-<p>Renomear o arquivo de credenciais para (firebase-secret.json)</p>
+#### 🔥 Firebase
+- Cadastrar-se no firebase
+- Ir para o console
+- Adicionar projeto e nomear como **MyDailyStatus**
+- Localize as configurações de projeto
+- Clique na aba contas de serviço e em gerar nova chave privada
+- Salve a chave na basta no projeto
+- Renomear o arquivo de credenciais para **firebase-secret.json**
 
-#### RUN DEV
+### 💫 Startando o Projeto
+
+#### Development Environment
 ```bash
 # run dev
 $ npm run dev
 ```
 
 
-#### RUN ENV
+#### Production Environment
 ```bash
 # build
 $ npm run build
