@@ -1,5 +1,5 @@
 <h4 align="center">
-    <img alt="MyDailyStatus" title="#MyDailyStatus" src="readme/Logo.png"/>
+    <img alt="MyDailyStatus" title="#MyDailyStatus" src="readme/MDS-Logo 2.png"/>
 </h4>
 <p>&nbsp;</p>
 
@@ -50,6 +50,13 @@ This project was developed with the following technologies:
 - [Firebase](https://firebase.google.com/)
 - [Geofirestore](https://github.com/geofirestore/geofirestore-js/)
 - [Axios](https://github.com/axios/axios)
+
+### 💫 Futuras Implementações 
+
+### 📍 MAP 
+
+- [Google-Map-React](https://github.com/google-map-react/google-map-react)
+- [Jsbin](https://jsbin.com/ruwogapuke/1/edit?js,output)
 
 
 ---
@@ -107,6 +114,13 @@ After merging your receipt request to done, you can delete a branch from yours.
 
 ---
 
+### Help's
+
+<p>Function to calculate distance between two coordinates</p>
+
+- [stackoverflow](https://stackoverflow.com/questions/18883601/function-to-calculate-distance-between-two-coordinates)
+
+---
 
 ## :memo: License
 
