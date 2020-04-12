@@ -68,7 +68,7 @@ export async function getServerSideProps({ req, res }) {
                 .collection('checks')
                 .near({
                     center: todaysData.coordinates,
-                    radius: 1000
+                    radius: 1400
                 }).get()
             
             const checkinsList = []
