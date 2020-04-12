@@ -65,7 +65,8 @@ This project was developed with the following technologies:
 
 Para acessar o layout utilize a ferramenta [Figma](https://www.figma.com/file/1rKLCBdbCGTE3mJFBc2VsJ/MyDailyStatus).
 
----
+
+<p>Futuramente será implementado um mapa e uma timeline para mostrar todos os chekins e suas respectivas datas de postagem</p>
 
 #### Cheking status diario
 
