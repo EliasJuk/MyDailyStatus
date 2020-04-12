@@ -1,5 +1,5 @@
 <h4 align="center">
-    <img alt="MyDailyStatus" title="#MyDailyStatus" src="readme/MDS-Logo 2.png"/>
+    <img alt="MyDailyStatus" title="#MyDailyStatus" src="readme/MDS-Logo-2.png"/>
 </h4>
 <p>&nbsp;</p>
 
@@ -64,6 +64,21 @@ This project was developed with the following technologies:
 ## 🔖 Layout
 
 Para acessar o layout utilize a ferramenta [Figma](https://www.figma.com/file/1rKLCBdbCGTE3mJFBc2VsJ/MyDailyStatus).
+
+---
+
+#### Cheking status diario
+
+<h4 align="center">
+    <img alt="MyDailyStatus" title="#MyDailyStatus" src="readme/001.png"/>
+</h4>
+
+#### Cheking proximos ao seu
+
+<h4 align="center">
+    <img alt="MyDailyStatus" title="#MyDailyStatus" src="readme/002.png"/>
+</h4>
+
 
 ---
 
